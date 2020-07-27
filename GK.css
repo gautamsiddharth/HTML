@@ -1,9 +1,29 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 #nav{
+    height: 110px;
+    background-color: #5ff581;
+    border: 2px solid black;
+}
+
+#title {
     float: left;
-
-
-
+    margin-left: 20px;
 }
-img{
-    float: centre;
+
+#logo {
+    margin-left: 25%;
+    opacity: 0.9;
 }
+
+#contacts {
+    float: right;
+    margin-right: 20px;
+}
+
+#menu {
+    color: red;
+}
+
