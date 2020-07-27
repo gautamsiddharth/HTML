@@ -24,6 +24,15 @@ body {
 }
 
 #menu {
+    margin-left: 50%;
     color: red;
+}
+#type{
+    margin-left: 50%;
+}
+
+#cp{
+    margin-left: 70%;
+    
 }
 
